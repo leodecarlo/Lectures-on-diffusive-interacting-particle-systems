@@ -16,13 +16,13 @@ Three handwritten introductory pages that set up the general framework:
 - particle configurations and occupation variables;
 - conserved quantities and empirical density fields;
 - the passage from microscopic stochastic dynamics to macroscopic evolution equations;
-- the principal themes of the minicourses, including the hydrodynamic limit of the symmetric simple exclusion process, macroscopic fluctuation theory, boundary-driven systems, and models with vorticity.
+- the programme of the minicourses: Chapter 4 of Kipnis and Landim, a review of known results through discrete exterior calculus, and the author's results on microscopic currents and vorticity.
 
 These pages provide a short orientation before the more technical lectures.
 
 ### 2. [Hydrodynamics of the SSEP - Chapter 4 of Kipnis-Landim](ch4KL.pdf)
 
-Eighteen handwritten pages devoted to the hydrodynamic limit of the **symmetric simple exclusion process (SSEP)**, following Chapter 4 of Kipnis and Landim.
+Eighteen handwritten pages devoted to the hydrodynamic limit of the **symmetric simple exclusion process (SSEP)**, following Chapter 4 of Kipnis and Landim and using Billingsley's *Convergence of Probability Measures* for the background on weak convergence, tightness, and probability measures on trajectory spaces.
 
 Topics include:
 
