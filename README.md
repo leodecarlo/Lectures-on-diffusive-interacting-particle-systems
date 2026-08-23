@@ -1,6 +1,6 @@
 # Lectures on Diffusive Interacting Particle Systems
 
-Lecture notes and slides from minicourses delivered at the **Instituto Superior Técnico (IST), University of Lisbon**, and the **Scuola Normale Superiore (SNS), Pisa**.
+Lecture notes and slides from minicourses delivered at the Instituto Superior Técnico (IST), University of Lisbon, and the Scuola Normale Superiore (SNS), Pisa.
 
 The material introduces the hydrodynamic scaling of diffusive interacting particle systems (IPS), beginning with the symmetric simple exclusion process and continuing toward geometric decompositions of microscopic currents, non-gradient models, and exclusion processes with vorticity.
 
@@ -22,7 +22,7 @@ These pages provide a short orientation before the more technical lectures.
 
 ### 2. [Hydrodynamics of the SSEP - Chapter 4 of Kipnis-Landim](ch4KL.pdf)
 
-Eighteen handwritten pages devoted to the hydrodynamic limit of the **symmetric simple exclusion process (SSEP)**, following Chapter 4 of Kipnis and Landim and using Billingsley's *Convergence of Probability Measures* for the background on weak convergence, tightness, and probability measures on trajectory spaces.
+Eighteen handwritten pages devoted to the hydrodynamic limit of the symmetric simple exclusion process (SSEP), following Chapter 4 of Kipnis and Landim and using Billingsley's *Convergence of Probability Measures* for the background on weak convergence, tightness, and probability measures on trajectory spaces.
 
 Topics include:
 
@@ -122,4 +122,4 @@ The model with vorticity provides an explicit non-reversible example whose invar
 
 ## Author
 
-**Leonardo De Carlo**
+Leonardo De Carlo
