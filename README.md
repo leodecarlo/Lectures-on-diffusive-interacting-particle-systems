@@ -114,16 +114,12 @@ The model with vorticity provides an explicit non-reversible example whose invar
 - C. Kipnis and C. Landim, *Scaling Limits of Interacting Particle Systems*, Grundlehren der mathematischen Wissenschaften 320, Springer, 1999. In particular, Chapter 4 develops the hydrodynamic equation for the symmetric simple exclusion process. [DOI: 10.1007/978-3-662-03752-2](https://doi.org/10.1007/978-3-662-03752-2).
 - H. Spohn, *Large Scale Dynamics of Interacting Particles*, Springer, 1991. [DOI: 10.1007/978-3-642-84371-6](https://doi.org/10.1007/978-3-642-84371-6).
 
-### Related work by Leonardo De Carlo
+### Model with vorticity
 
-- L. De Carlo, **Geometrical Structures of the Instantaneous Current and Their Macroscopic Effects: Vortices and Perspectives in Non-gradient Models**, in C. Bernardin, F. Golse, P. Gonçalves, V. Ricci, and A. J. Soares (eds.), *From Particle Systems to Partial Differential Equations*, Springer Proceedings in Mathematics & Statistics 352, pp. 169-193, 2021. [Springer chapter](https://doi.org/10.1007/978-3-030-69784-6_9) | [arXiv:2004.01548](https://arxiv.org/abs/2004.01548).
-- L. De Carlo, D. Gabrielli, and P. Gonçalves, **Hydrodynamic Limit of an Exclusion Process with Vorticity**, *Annales de l'Institut Henri Poincaré, Probabilités et Statistiques* 61(1), 232-257, 2025. [DOI: 10.1214/23-AIHP1441](https://doi.org/10.1214/23-AIHP1441) | [arXiv:2109.07897](https://arxiv.org/abs/2109.07897).
-- L. De Carlo and D. Gabrielli, **Gibbsian Stationary Non-equilibrium States**, *Journal of Statistical Physics* 168, 1191-1222, 2017. [DOI: 10.1007/s10955-017-1852-5](https://doi.org/10.1007/s10955-017-1852-5) | [arXiv:1703.02418](https://arxiv.org/abs/1703.02418).
+- L. De Carlo, Geometrical Structures of the Instantaneous Current and Their Macroscopic Effects: Vortices and Perspectives in Non-gradient Models, in C. Bernardin, F. Golse, P. Gonçalves, V. Ricci, and A. J. Soares (eds.), *From Particle Systems to Partial Differential Equations*, Springer Proceedings in Mathematics & Statistics 352, pp. 169-193, 2021. [Springer chapter](https://doi.org/10.1007/978-3-030-69784-6_9) | [arXiv:2004.01548](https://arxiv.org/abs/2004.01548).
+- L. De Carlo, D. Gabrielli, and P. Gonçalves, Hydrodynamic Limit of an Exclusion Process with Vorticity, *Annales de l'Institut Henri Poincaré, Probabilités et Statistiques* 61(1), 232-257, 2025. [DOI: 10.1214/23-AIHP1441](https://doi.org/10.1214/23-AIHP1441) | [arXiv:2109.07897](https://arxiv.org/abs/2109.07897).
+- L. De Carlo and D. Gabrielli, Gibbsian Stationary Non-equilibrium States, *Journal of Statistical Physics* 168, 1191-1222, 2017. [DOI: 10.1007/s10955-017-1852-5](https://doi.org/10.1007/s10955-017-1852-5) | [arXiv:1703.02418](https://arxiv.org/abs/1703.02418).
 
 ## Author
 
 **Leonardo De Carlo**
-
-## Note on the material
-
-The repository preserves the lecture material in its original form. The handwritten notes are scans, while the remaining documents are presentation slides, in some cases supplemented by handwritten annotations.
