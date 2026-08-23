@@ -57,7 +57,7 @@ The slides cover:
 - the non-gradient problem and the role of functional Hodge decompositions for translation-covariant local currents;
 - the appearance of divergence-free microscopic currents and their possible macroscopic effects.
 
-### 4. [Exclusion processes with vorticity](IPSdiffusivi/model%20with%20vorticity%20with%20fig2.pdf)
+### 4. [Exclusion processes with vorticity](IPSdiffusivi/model%20with%20vorticity.pdf)
 
 A twenty-seven-page slide deck presenting a non-reversible diffusive exclusion process with an explicit vortical component.
 
@@ -82,7 +82,7 @@ Some pages include handwritten diagrams and annotations illustrating the microsc
 1. Start with `intro.pdf` for the microscopic-to-macroscopic viewpoint.
 2. Read `ch4KL.pdf` for the standard hydrodynamic limit of the SSEP.
 3. Continue with `ips_diffusivi+dec.pdf` for microscopic currents and Hodge decompositions.
-4. Finish with `model with vorticity with fig2.pdf` for the non-reversible model and its current hydrodynamics.
+4. Finish with `model with vorticity.pdf` for the non-reversible model and its current hydrodynamics.
 
 ## Main mathematical themes
 
